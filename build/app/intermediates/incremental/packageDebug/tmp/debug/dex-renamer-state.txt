@@ -1,0 +1,4 @@
+#Sat Apr 15 00:04:04 KST 2023
+base.0=/Users/chloseU/homework/nomad_flutter_first/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

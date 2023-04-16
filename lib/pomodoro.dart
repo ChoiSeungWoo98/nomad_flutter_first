@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'screens/home_screen.dart';
+import 'screens/home_screen_timer.dart';
 
 void main() {
   runApp(App());
@@ -19,7 +19,7 @@ class App extends StatelessWidget {
         ),
           cardColor: const Color(0xFFF4EDDB),
       ),
-      home: const HomeScreen(),
+      home: const HomeScreenTimer(),
     );
   }
 }
